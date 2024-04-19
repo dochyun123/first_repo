@@ -1,2 +1,5 @@
-for _ in range(5):
-    print(f'hellow world')
+def check_available():
+    return 'Okey'
+
+if __name__ =='__main__':
+    print(check_available())
